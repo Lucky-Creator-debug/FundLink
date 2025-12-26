@@ -1,0 +1,7 @@
+{
+  "name": "FundLink - Watch & Connect",
+  "description": "A security-first, mobile-first onboarding flow for startup founders and investors, following the PTCF framework.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

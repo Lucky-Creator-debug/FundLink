@@ -9,7 +9,7 @@ Files were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree
 
 ### Additional Details
  * Last updated: Sun, 14 Dec 2025 00:04:32 GMT
- * Dependencies: [undici-types](https://npmjs.com/package/undici-types)
 
 # Credits
 These definitions were written by [GOOGLE,Qoder & ME: Potheesh Vignesh K - kpotheeshvignesh@gmail.com(The Founder)
+
